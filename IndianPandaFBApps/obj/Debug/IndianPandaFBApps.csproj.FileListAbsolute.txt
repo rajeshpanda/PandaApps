@@ -1,0 +1,165 @@
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\ApplicationInsights.config
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\csc.exe
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\System.Collections.Immutable.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\vbc.exe
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\VBCSCompiler.exe
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\VBCSCompiler.exe.config
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.dll.config
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.pdb
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Antlr3.Runtime.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.SqlServer.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Facebook.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.DependencyCollector.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Web.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.WindowsServer.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.ApplicationInsights.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Google.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Web.Infrastructure.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Newtonsoft.Json.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Owin.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Helpers.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Mvc.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Optimization.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Razor.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Deployment.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Razor.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\WebGrease.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.DependencyCollector.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Web.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.WindowsServer.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.ApplicationInsights.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Helpers.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Mvc.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Optimization.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Razor.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Deployment.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Razor.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Antlr3.Runtime.pdb
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Newtonsoft.Json.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.SqlServer.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Google.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\obj\Debug\IndianPandaFBApps.csprojResolveAssemblyReference.cache
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\obj\Debug\IndianPandaFBApps.dll
+E:\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\obj\Debug\IndianPandaFBApps.pdb
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\ApplicationInsights.config
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\csc.exe
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\System.Collections.Immutable.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\System.Reflection.Metadata.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\vbc.exe
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\VBCSCompiler.exe
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\roslyn\VBCSCompiler.exe.config
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.dll.config
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\IndianPandaFBApps.pdb
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Antlr3.Runtime.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\CloudinaryDotNet.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.SqlServer.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.DependencyCollector.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Web.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.WindowsServer.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.ApplicationInsights.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Google.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Web.Infrastructure.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Newtonsoft.Json.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Owin.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Helpers.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Mvc.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Optimization.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Razor.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Deployment.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Razor.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\WebGrease.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.DependencyCollector.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.Web.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AI.WindowsServer.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.ApplicationInsights.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Helpers.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Mvc.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Optimization.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.Razor.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Deployment.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\System.Web.WebPages.Razor.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Antlr3.Runtime.pdb
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Newtonsoft.Json.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\EntityFramework.SqlServer.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Google.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\obj\Debug\IndianPandaFBApps.dll
+D:\Self Tutor\PD\E\VS14\Projects\IndianPandaFBApps\IndianPandaFBApps\obj\Debug\IndianPandaFBApps.pdb

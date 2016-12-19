@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<script>
+
+</script>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - IndianPandaFBApps</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    
+</head>
+<body style="background-image: url('../../Content/Images/background-img1.jpg');background-size:cover">
+    <style type="text/css">
+        .loader {
+          border: 16px solid #f3f3f3;
+          border-radius: 50%;
+          border-top: 16px solid #3498db;
+          width: 100px;
+          height: 100px;
+          -webkit-animation: spin 2s linear infinite;
+          animation: spin 2s linear infinite;
+        }
+        @@font-face {
+            font-family: hvdArmy;
+            src: url("../../fonts/HVD_Peace.ttf") ;
+        }
+        @@-webkit-keyframes spin {
+          0% { -webkit-transform: rotate(0deg); }
+          100% { -webkit-transform: rotate(360deg); }
+        }
+
+        @@keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+    </style>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Panda Apps", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("All Apps", "Index", "Apps")</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/custompandajs")
+
+    @RenderSection("scripts", required: false)
+    <div class="container body-content">
+        <div align="center" class="row">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- all ads top -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5899404255168482"
+                 data-ad-slot="6219665050"
+                 data-ad-format="auto"></ins>
+            <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        @RenderBody()
+        <hr />
+        <footer style="text-align:center">
+            <p>&copy; @DateTime.Now.Year - RajeshPanda.IN</p>
+        </footer>
+    </div>
+
+    @*<div id='widget-102974'></div>
+    <script type='text/javascript'>
+        (function() {
+            var mi = document.createElement('script');mi.type = 'text/javascript';
+            mi.async = true;var s = document.getElementsByTagName('script')[0];
+            mi.src = '//adsomi.com/pop.js.php?u=1802&w=2254';
+            s.parentNode.insertBefore(mi, s);})();
+    </script>*@
+</body>
+</html>

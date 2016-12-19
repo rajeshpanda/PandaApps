@@ -1,0 +1,101 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<style type="text/css">
+    .transaparent-div {
+        height:100%;margin:0 auto;width: 400px;border-radius:100px;background:rgba(255, 255, 255, 0.5);color:rgba(59, 89, 152, 1.00);vertical-align:middle;
+    }
+
+    .login-btn{
+        background:rgba(59, 89, 152, 1.00);color:white;margin-top:2px;
+    }
+</style>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Panda Apps</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/custompandajs")
+</head>
+<body style="background-image: url('../../Content/Images/background-img1.jpg');background-size:cover;text-align:center">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Panda Apps", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("All Apps", "Index", "Apps")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row" align="center">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Panda Apps Leaderboard -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-5899404255168482"
+             data-ad-slot="8174076259"></ins>
+        <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+    <div class="row" style="text-align:center">
+        <div class="col-md-4">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- panda apps left login -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5899404255168482"
+                 data-ad-slot="5081009050"
+                 data-ad-format="auto"></ins>
+            <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        <div class="col-md-4" style="height:500px;margin:0 auto;margin-top:25px">
+            <div class="transaparent-div">
+                <br />
+                <div style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight:700;font-size:x-large;margin:0 auto;margin-top:35px;width:80%">Welcome to Panda Apps</div><br />
+                <button class="btn-lg login-btn" onclick='appLogin("login")'>Login to facebook.com</button><br /><br />
+                <img src="~/Content/Images/pandaapps.png" height="35%" />
+                <div style="width:80%;margin:0 auto;margin-top:10px">Disclaimer: All apps are created with pure intent to have fun and not hurt anyone. Author is not liable for any interpretation by users or their friends on facebook.</div>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Panda Apps Login Right Ad -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5899404255168482"
+                 data-ad-slot="3604275856"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - RajeshPanda.IN</p>
+        </footer>
+        
+
+    
+       
+    </body>
+</html>
